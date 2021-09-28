@@ -2,7 +2,7 @@
 - Final year undergrad at KLE Technological University.
 - Competitive Programmer.
 - DSA Enthusiast.
-- Backend Web Developer.
+- Backend Web Developer [ NodeJS ExpressJS MongoDB ]
 - Flutter Developer.
 
 
