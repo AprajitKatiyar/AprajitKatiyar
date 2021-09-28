@@ -1,9 +1,9 @@
 ### Aprajit Katiyar
-> Final year undergrad at KLE Technological University.
-> Competitive Programmer.
-> DSA Enthusiast
-> Backend Web Developer.
-> Flutter Developer.
+. Final year undergrad at KLE Technological University.
+. Competitive Programmer.
+. DSA Enthusiast
+. Backend Web Developer.
+. Flutter Developer.
 
 
 <!--
