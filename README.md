@@ -1,5 +1,5 @@
-### Hi there 👋 I am Aprajit Katiyar
-##---
+### Hi there!
+
 
 <!--
 **AprajitKatiyar/AprajitKatiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
