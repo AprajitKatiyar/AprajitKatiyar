@@ -1,9 +1,9 @@
-### Aprajit Katiyar
-- Final year undergrad at KLE Technological University.
-- Competitive Programmer.
-- DSA Enthusiast.
-- Backend Web Developer [ NodeJS ExpressJS MongoDB ]
-- Flutter Developer.
+# Aprajit Katiyar
+- *Final year undergrad at KLE Technological University.*
+- *Competitive Programmer.*
+- *DSA Enthusiast.*
+- *Backend Web Developer [ NodeJS ExpressJS MongoDB ]*
+- *Flutter Developer.*
 - aprajit.katiyar1999@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/AprajitKatiyar/)
 
